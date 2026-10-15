@@ -1,0 +1,3 @@
+# Public documentation only; normalize text regardless of local Git defaults.
+* text=auto
+*.md text eol=lf

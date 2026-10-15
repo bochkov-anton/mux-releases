@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security and responsible disclosure
+    url: https://github.com/bochkov-anton/mux-releases/blob/main/SECURITY.md
+    about: Do not file public vulnerability reports or post credentials, TOTP seeds, cookies or Vault backups.
