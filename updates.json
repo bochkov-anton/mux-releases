@@ -1,7 +1,18 @@
 {
   "addons": {
     "mux@local.invalid": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.2.1",
+          "update_link": "https://github.com/bochkov-anton/mux-releases/releases/download/mux-v0.2.1/mux-641cd5d697eb8e550ba2b81aed933250f6f208d9.xpi",
+          "update_hash": "sha256:f49718e145780e97f582d9005c8732a5724aefc932d2cd5f65bdeb5147a4453c",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "128.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
