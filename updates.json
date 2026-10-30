@@ -3,9 +3,9 @@
     "mux@local.invalid": {
       "updates": [
         {
-          "version": "0.2.8",
-          "update_link": "https://github.com/bochkov-anton/mux-releases/releases/download/mux-v0.2.8/mux-9ea44b3eda11763c3f2832adb2fe2f216061a880.xpi",
-          "update_hash": "sha256:13771b0f09b4fb4a54546b9deecf9d9b613a5c684d6b7f97200e927a243236a9",
+          "version": "0.2.9",
+          "update_link": "https://github.com/bochkov-anton/mux-releases/releases/download/mux-v0.2.9/mux-bea8bdd2c3385b64e613752af252ce3db7d0706f.xpi",
+          "update_hash": "sha256:29796caf83e0e29af13acf4a53c5ea8556ee3280a7a6aa8d6251821efcb32bc8",
           "applications": {
             "gecko": {
               "strict_min_version": "128.0"
